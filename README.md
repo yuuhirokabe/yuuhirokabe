@@ -1,4 +1,3 @@
-<h1>About <i>./yuuhirokabe</i></h1>
 <pre>
   root@github ~$ go build -o build src/yuuhirokabe.go
   root@github ~$ go chmod +x build/yuuhirokabe
