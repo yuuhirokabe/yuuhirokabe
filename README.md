@@ -1,15 +1,32 @@
 <pre>
   root@github ~$ go build -o build src/yuuhirokabe.go
-  root@github ~$ go chmod +x build/yuuhirokabe
+  root@github ~$ chmod +x build/yuuhirokabe
   root@github ~$ ./build/yuuhirokabe
   <br>
-[+] INFO
-Hello, yuuhirokabeです。
-I'm back-end programmer and penetration testing. I'm programming from the young years.
-I have a lot of hobbies but my primary hobby is programming and kinda hacking.
-<br>
-[+] PROGRAMMING LANGUAGES
-PHP, Go, Python, C++, Javascript
+{
+  "name": "yuuhirokabe",
+  "age": 20,
+  "hobbies": [
+    "programming",
+    "hacking",
+    "photographying",
+    "music production",
+    "sport"
+  ],
+  "languages": [
+    "latvian",
+    "russian",
+    "english",
+    "japanese"
+  ],
+  "programming_languages": [
+    "PHP",
+    "JavaScript",
+    "Python",
+    "C++",
+    "Go"
+  ]
+}
 </pre>
 
 <!--
