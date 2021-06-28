@@ -7,11 +7,11 @@
   "name": "yuuhirokabe",
   "age": 20,
   "hobbies": [
-    "programming",
-    "hacking",
-    "photographying",
-    "music production",
-    "sport"
+    "👨‍💻 writting the code",
+    "😾 hacking the systems",
+    "🤳 photographying",
+    "🎹 music production",
+    "🤸‍♂️sport"
   ],
   "languages": [
     "latvian",
@@ -25,6 +25,10 @@
     "Python",
     "C++",
     "Go"
+  ],
+  "linux": [
+    "black arch",
+    "kali linux"
   ]
 }
 </pre>
