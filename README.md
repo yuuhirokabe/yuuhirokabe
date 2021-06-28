@@ -4,7 +4,7 @@
   root@github ~$ ./build/yuuhirokabe
   <br>
 {
-  "name": "yuuhirokabe",
+  "name": "narukoshin",
   "age": 20,
   "hobbies": [
     "👨‍💻 writting the code",
