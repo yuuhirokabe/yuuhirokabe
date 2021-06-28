@@ -1,7 +1,7 @@
 <pre>
-  root@github ~$ go build -o build src/yuuhirokabe.go
-  root@github ~$ chmod +x build/yuuhirokabe
-  root@github ~$ ./build/yuuhirokabe
+  root@github ~$ go build -o build src/narukoshin.go
+  root@github ~$ chmod +x build/narukoshin
+  root@github ~$ ./build/narukoshin
   <br>
 {
   "name": "narukoshin",
