@@ -2,12 +2,6 @@
   root@github ~$ go build -o build src/narukoshin.go
   root@github ~$ chmod +x build/narukoshin
   root@github ~$ ./build/narukoshin
-                         _             _     _       
-                        | |           | |   (_)      
-  _ __   __ _ _ __ _   _| | _____  ___| |__  _ _ __  
- | '_ \ / _` | '__| | | | |/ / _ \/ __| '_ \| | '_ \ 
- | | | | (_| | |  | |_| |   < (_) \__ \ | | | | | | |
- |_| |_|\__,_|_|   \__,_|_|\_\___/|___/_| |_|_|_| |_|
                                                                                                          
 {
   "name": "narukoshin",
