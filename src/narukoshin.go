@@ -30,6 +30,8 @@ func main() {
 			"😾 hacking the systems",
 			"🤳 photographying",
 			"🎹 music production",
+			"🕹 playing video games",
+			"🤸‍♂️ sport",
 		},
 		Languages: []string{
 			"latvian",
