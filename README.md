@@ -11,6 +11,7 @@
     "😾 hacking the systems",
     "🤳 photographying",
     "🎹 music production",
+    "🕹playing video games"
     "🤸‍♂️sport"
   ],
   "languages": [
