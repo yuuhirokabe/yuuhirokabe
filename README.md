@@ -11,8 +11,8 @@
     "😾 hacking the systems",
     "🤳 photographying",
     "🎹 music production",
-    "🕹playing video games"
-    "🤸‍♂️sport"
+    "🕹 playing video games"
+    "🤸 sport"
   ],
   "languages": [
     "latvian",
