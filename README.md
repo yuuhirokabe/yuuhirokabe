@@ -1,8 +1,9 @@
 <pre>
+  ```sh
   root@github ~$ go build -o build src/narukoshin.go
   root@github ~$ chmod +x build/narukoshin
   root@github ~$ ./build/narukoshin
-                                                                                                         
+  ```                                                                                                       
 {
   "name": "narukoshin",
   "age": 20,
