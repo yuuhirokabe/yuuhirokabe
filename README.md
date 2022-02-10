@@ -1,9 +1,9 @@
-<pre>
-  ```sh
+ ```sh
   root@github ~$ go build -o build src/narukoshin.go
   root@github ~$ chmod +x build/narukoshin
   root@github ~$ ./build/narukoshin
   ```                                                                                                       
+```json
 {
   "name": "narukoshin",
   "age": 20,
@@ -34,4 +34,4 @@
     {"name": "Ubuntu", "desc": "for web servers"}
   }
 }
-</pre>
+```
