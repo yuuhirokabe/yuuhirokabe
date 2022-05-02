@@ -29,8 +29,7 @@
     "Go"
   ],
   "linux": {
-    {"name": "BlackArch", "desc": "for penetration testing"},
-    {"name": "Kali", "desc": "alternative for penetration testing"},
+    {"name": "Arch", "desc": "for penetration testing"},
     {"name": "Ubuntu", "desc": "for web servers"}
   }
 }
