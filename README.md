@@ -6,10 +6,10 @@
 ```json
 {
   "name": "narukoshin",
-  "age": 20,
+  "age": 21,
   "hobbies": [
     "👨‍💻 writting the code",
-    "😾 hacking the systems",
+    "😾 hacking websites and systems",
     "🤳 photographying",
     "🎹 music production",
     "🕹 playing video games"
