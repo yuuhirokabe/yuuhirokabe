@@ -12,14 +12,15 @@
     "😾 hacking websites and systems",
     "🤳 photographying",
     "🎹 music production",
-    "🕹 playing video games"
+    "🕹 playing video games",
+    "🌹 dating girls xd",
     "🤸 sport"
   ],
   "languages": [
-    "latvian",
-    "russian",
     "english",
-    "japanese"
+    "russian",
+    "japanese",
+    "latvian"
   ],
   "programming_languages": [
     "PHP",
@@ -28,7 +29,7 @@
     "C++",
     "Go"
   ],
-  "linux": {
+  "linux_distros": {
     {"name": "Arch", "desc": "for penetration testing"},
     {"name": "Ubuntu", "desc": "for web servers"}
   }
