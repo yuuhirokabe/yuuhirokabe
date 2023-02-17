@@ -1,6 +1,8 @@
-![](https://raw.githubusercontent.com/narukoshin/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/narukoshin/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/narukoshin/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/narukoshin/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+</div>
+<hr>
  
  ```sh
   root@github ~$ go build -o build src/narukoshin.go
