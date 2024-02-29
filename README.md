@@ -18,6 +18,7 @@
     "😾 hacking websites and systems",
     "🤳 photographying",
     "🎹 music production",
+    "🎸 playing guitar",
     "🕹 playing video games",
     "🤸 sport"
   ],
