@@ -19,7 +19,6 @@
     "🤳 photographying",
     "🎹 music production",
     "🕹 playing video games",
-    "🌹 dating girls xd",
     "🤸 sport"
   ],
   "languages": [
@@ -36,7 +35,7 @@
     "Go"
   ],
   "linux_distros": {
-    {"name": "Arch", "desc": "for penetration testing"},
+    {"name": "Arch", "desc": "for penetration testing, daily life"},
     {"name": "Ubuntu", "desc": "for web servers"}
   }
 }
