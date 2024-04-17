@@ -14,10 +14,10 @@
   "name": "narukoshin",
   "age": 23,
   "hobbies": [
-    "👨‍💻 writting the code",
+    "👨‍💻 programming",
     "😾 hacking websites and systems",
-    "🤳 photographying",
-    "🎹 music production",
+    "🤳 taking pictures",
+    "🎹 making music",
     "🎸 playing guitar",
     "🕹 playing video games",
     "🤸 sport"
