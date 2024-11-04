@@ -35,9 +35,10 @@
     "C++",
     "Go"
   ],
-  "linux_distros": {
-    {"name": "Arch", "desc": "for penetration testing, daily life"},
-    {"name": "Ubuntu", "desc": "for web servers"}
+  "operating_systems": {
+    {"name": "Arch", "desc": "for penetration testing"},
+    {"name": "Ubuntu", "desc": "for web servers"},
+    {"name": "Windows 11 Pro", "desc": "For daily using, programming and making music"},
   }
 }
 ```
